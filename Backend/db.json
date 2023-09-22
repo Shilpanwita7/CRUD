@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Shreyashi",
+      "sal": "50000",
+      "com": "tcs",
+      "id": 5
+    },
+    {
+      "name": "Chandrani Chakraborty",
+      "sal": "4000",
+      "com": "HARMAN",
+      "id": 6
+    },
+    {
+      "name": "Reba Biswas",
+      "sal": "100000",
+      "com": "lic",
+      "id": 7
+    }
+  ]
+}
